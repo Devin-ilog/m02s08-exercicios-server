@@ -57,7 +57,7 @@ GET: http://localhost:8081/produtos
     "descricao": "Tradicional sopa de cebola à francesa gratinada com pão e queijo gruyerè.",
     "valor": 64,
     "tempoPreparo": "20 min",
-    "secao": "Quentes"
+    "secao": "Entradas"
   },
   ...
 ]
