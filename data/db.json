@@ -34,7 +34,7 @@
       "descricao": "Champignon fresco gigante produzidos na Linha Ávila no interior de Gramado, recheado com creme de javali, gratinado com queijo parmesão.",
       "valor": 65,
       "tempoPreparo": "30 min",
-      "secao": "Quentes"
+      "secao": "Entradas"
     },
     {
       "id": 5,
@@ -43,7 +43,7 @@
       "descricao": "Aveludada brandade de bacalhau servida em crocante de sementes, delicada base de azeite de rúcula e suas folhas com farofinha de azeitonas.",
       "valor": 65,
       "tempoPreparo": "30 min",
-      "secao": "Quentes"
+      "secao": "Entradas"
     },
     {
       "id": 6,
@@ -52,7 +52,7 @@
       "descricao": "Tradicional sopa de cebola à francesa gratinada com pão e queijo gruyerè.",
       "valor": 64,
       "tempoPreparo": "20 min",
-      "secao": "Quentes"
+      "secao": "Entradas"
     },
     {
       "id": 7,
