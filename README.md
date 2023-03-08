@@ -7,14 +7,14 @@
 Para clonar o repositório é preciso executar o comando
 
 ```
-git clone git@github.com:Devin-ilog/m02s08-exercicios-server.git
+git clone git@github.com:Devin-ilog/m02s08-exercicios.git
 ```
 
 Para instalar as dependencias é preciso executar o comando **npm install**:
 
 ```
 // Acessar a pasta do projeto
-cd m02s08-exercicios-server
+cd m02s08-exercicios/server
 
 // Instalar as dependencias do projeto
 npm install
