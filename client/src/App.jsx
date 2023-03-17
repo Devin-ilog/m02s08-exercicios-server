@@ -1,21 +1,12 @@
-import './App.css';
-import { Card } from './components/Card';
-import { Footer } from './components/Footer';
-import { Navbar } from './components/Navbar';
-import { Produtos } from './pages/Produtos';
+import './App.css'
 
 function App() {
+
+
   return (
-    <div className='app'>
-      <Navbar />
-
-      <main className='main'>
-        <Produtos />
-      </main>
-
-      <Footer />
+    <div >    
     </div>
-  );
+  )
 }
 
-export default App;
+export default App
