@@ -1,0 +1,28 @@
+.card {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    justify-content: center;
+    width: 200px;
+    background-color: #1c1c1c;
+    border-radius: 20px;
+    
+}
+
+.card-info {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    padding: 20px;
+}
+.card-title {
+    color: green;
+}
+.card-description {
+    font-size: 10px;
+}
+.card-footer {
+    display: flex;
+    justify-content: space-between;
+    color: green;
+}
