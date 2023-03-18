@@ -1,12 +1,14 @@
 import './Navbar.css';
-import logo from "../../assests/logo.png"
+import logo from "../../assets/logo.png"
 
 export const Navbar=()=>{
     return (
-        <div>
-            <img width={50} src={logo} alt="Logotipo"/>
-            <h1>DevinFood</h1>
+        <header className='container'>
+            <div className='logo'>    
+                <img width={50} src={logo} alt="Logotipo"/>
+                <h1>DevinFood</h1>
+            </div>
             <a href="#">Menu</a>
-        </div>
+        </header>
     )
 }
