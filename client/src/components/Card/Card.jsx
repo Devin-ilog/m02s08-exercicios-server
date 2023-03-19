@@ -1,6 +1,6 @@
 import "./Card.css";
 
-export const Card = ({nome, imagem, descricao, valor, tempoPreparo, selecionado, onSelecionar}) => {
+export const Card = ({id, nome, imagem, descricao, valor, tempoPreparo, selecionado, onSelecionar}) => {
 
     return (
         <div className={`card ${selecionado ? "card-selecionado" : ""}`} onClick={()=> onSelecionar(id)}>

@@ -6,7 +6,8 @@
     width: 200px;
     background-color: #1c1c1c;
     border-radius: 20px;
-    cursor: pointer;    
+    cursor: pointer;
+    border: 1px solid #1c1c1c;  
 }
 
 .card-info {
