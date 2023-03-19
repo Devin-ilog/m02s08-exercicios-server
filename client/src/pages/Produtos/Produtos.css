@@ -11,5 +11,6 @@
 .lista {
     display: flex;
     flex-wrap: wrap;
-    gap: 40px
+    gap: 40px;
+    
 }

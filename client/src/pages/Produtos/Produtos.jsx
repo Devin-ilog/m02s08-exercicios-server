@@ -22,6 +22,7 @@ export const Produtos = () => {
                     <div className='lista'>
                         {produtos[secao].map((item)=> (
                             <Card key={item.id}
+                                id={item.id}
                                 imagem={item.imagem}
                                 nome={item.nome} 
                                 descricao={item.descricao}
