@@ -1,17 +1,16 @@
 .secao {
-  display: flex;
-  flex-direction: column;
-  gap: 10px;
-  margin-bottom: 20px;
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    margin-bottom: 20px;
 }
-
 .secao-titulo {
-  color: #ffb500;
-  text-transform: capitalize;
+    color: green;
+    text-transform: capitalize;
 }
-
 .lista {
-  display: flex;
-  flex-wrap: wrap;
-  gap: 40px;
+    display: flex;
+    flex-wrap: wrap;
+    gap: 40px;
+    
 }
